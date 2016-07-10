@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "962480376938",
+    "firebase_url": "https://eekhoutphotos.firebaseio.com",
+    "project_id": "eekhoutphotos",
+    "storage_bucket": "eekhoutphotos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962480376938:android:bbf653306ced6f03",
+        "android_client_info": {
+          "package_name": "com.eekhout.reporteer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962480376938-e9gahtu8n5r03thfbbfiubk05n4uu18k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArdZ6DW2Q-1Ic7sqEQX08O9gP3Wq1V4R0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
